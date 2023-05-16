@@ -1,7 +1,7 @@
 # todo-TUI-rs
 Just a simple implementation of Todo app written in Rust, allows user to manage your tasks in a command-line interface with a user-friendly interface.
 
-![Todo TUI App](todo_img.png)
+![Todo TUI App](image.png)
 
 ## Features
 - Add new tasks with a description
